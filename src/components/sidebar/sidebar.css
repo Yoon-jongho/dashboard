@@ -35,7 +35,6 @@
 
 .sidebarListItem.active,
 .sidebarListItem:hover {
-  width: 40%;
   background-color: rgb(228, 228, 250);
 }
 
